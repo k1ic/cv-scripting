@@ -1,5 +1,15 @@
 # CryptoVoxels Scripting
 ## 一、基础知识
+### 1.1 Features Types
+'vox-model'
+'button'
+'image'
+'sign'
+'polytext'
+'audio'
+'nft-image'
+'megavox'
+'text-input'
 
 ## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
