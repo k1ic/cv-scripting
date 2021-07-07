@@ -2,6 +2,9 @@
 ## Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
+## Scripting Wiki
+[https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
+
 ## Demo 清单 
 * 盯着你的狗子
 * 可抱走的狗子
