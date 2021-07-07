@@ -34,7 +34,7 @@
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
 
-## 三、Demo 清单 
+## 三、示例清单 
 * 围着你转的狗子
 * 一直跟着你的狗子
 * 猜数字
@@ -43,7 +43,7 @@
 * 井字棋
 * 陷阱
 
-## 四、Demo 详情
+## 四、示例详情
 
 ### 围着你转的狗子
 #### 1. 代码
