@@ -1,6 +1,7 @@
 # CryptoVoxels Scripting
 ## 一、基础知识
-### 1.1 Features Types
+### 1.1 Feature object
+#### Feature Type
 * vox-model
 * button
 * image
@@ -10,6 +11,8 @@
 * nft-image
 * megavox
 * text-input
+
+#### Feature Position、Scale、Rotation
 
 ### 1.2 Player object（当前玩家）
 #### 关键属性
