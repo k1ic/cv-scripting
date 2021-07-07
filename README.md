@@ -1,13 +1,13 @@
 # CryptoVoxels Scripting
-## 基础知识
+## 一、基础知识
 
-## Demo 地址
+## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
-## Scripting Wiki
+## 三、Scripting Wiki
 [https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
 
-## Demo 清单 
+## 四、Demo 清单 
 * 围着你转的狗子
 * 一直跟着你的狗子
 * 猜数字
@@ -16,7 +16,7 @@
 * 井字棋
 * 陷阱
 
-## Demo 详情
+## 五、Demo 详情
 
 ### 围着你转的狗子
 #### 1. 代码
