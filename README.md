@@ -35,6 +35,8 @@ setInterval(() => {
 ```
 #### 2. 截图
 ![image](https://user-images.githubusercontent.com/5465932/124737890-fa9b7c80-df4a-11eb-857f-5c02e6a77290.png)
+![image](https://user-images.githubusercontent.com/5465932/124741044-e86f0d80-df4d-11eb-8a6f-ea51e23598dc.png)
+
 
 #### 3. 其他配置
 ![image](https://user-images.githubusercontent.com/5465932/124737954-0b4bf280-df4b-11eb-8c16-62a71bedc7d6.png)
