@@ -31,7 +31,10 @@ setInterval(() => {
 }, 50)
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124737890-fa9b7c80-df4a-11eb-857f-5c02e6a77290.png)
+
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124737954-0b4bf280-df4b-11eb-8c16-62a71bedc7d6.png)
 
 ---
 
@@ -95,8 +98,11 @@ setPosition(newobject,e)
 
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124738020-1a32a500-df4b-11eb-8361-80cddfee940c.png)
 
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124738079-2a4a8480-df4b-11eb-9350-0c524763bb8f.png)
+
 ---
 
 ### 猜数字
@@ -190,7 +196,11 @@ feature.on('click', e=>{
 })
 ```
 ### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124738290-5a922300-df4b-11eb-8613-d0673f37f444.png)
+
 ### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124738336-654cb800-df4b-11eb-9373-96a197021bc8.png)
+
 ---
 
 ### Big Big Tree
@@ -220,7 +230,13 @@ feature.on('click',e=>{
 })
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124738402-77c6f180-df4b-11eb-83ae-82c48118f4fd.png)
+![image](https://user-images.githubusercontent.com/5465932/124738768-d8562e80-df4b-11eb-9b89-b143fb49a391.png)
+
+
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124738444-82818680-df4b-11eb-92dd-90f7d87eb4b4.png)
+
 ---
 
 ### 一扇门
@@ -240,7 +256,12 @@ feature.on('click',e=>{
 })
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124738922-f754c080-df4b-11eb-83c0-293c913f1cc6.png)
+![image](https://user-images.githubusercontent.com/5465932/124738949-00459200-df4c-11eb-93a4-193889f6bd28.png)
+
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124739012-105d7180-df4c-11eb-9666-26e61603a1e5.png)
+
 ---
 
 ### 井字棋
@@ -267,7 +288,11 @@ feature.on('click', e => {
 })
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124739106-24a16e80-df4c-11eb-8d32-baeaa89fadaf.png)
+
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124739171-3551e480-df4c-11eb-9378-42e0617b686a.png)
+
 ---
 
 ### 陷阱
@@ -285,5 +310,10 @@ feature.on('click',e=>{
 })
 ```
 #### 2. 截图
+![image](https://user-images.githubusercontent.com/5465932/124739570-8feb4080-df4c-11eb-9d68-2ce0114b391e.png)
+
 #### 3. 其他配置
+![image](https://user-images.githubusercontent.com/5465932/124739611-9bd70280-df4c-11eb-9cb9-d7172e0ed22a.png)
+
 ---
+```
