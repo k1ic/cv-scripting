@@ -1,4 +1,6 @@
 # CryptoVoxels Scripting
+## 基础知识
+
 ## Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
