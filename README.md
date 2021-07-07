@@ -12,7 +12,10 @@
 * megavox
 * text-input
 
-#### Feature Position、Scale、Rotation
+#### Feature Location
+* Position
+* Scale
+* Rotation
 
 ### 1.2 Player object（当前玩家）
 #### 关键属性
