@@ -27,13 +27,14 @@
 * player.wallet => '0x2D891ED45C4C3EAB978513DF4B92a35Cf131d2e2'
 * player.uuid => avatar uuid for this instance of the player (player may have multiple tabs open with seperate avatars)
 
+### 1.3 Scripting Wiki
+[https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
+
 ## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
-## 三、Scripting Wiki
-[https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
 
-## 四、Demo 清单 
+## 三、Demo 清单 
 * 围着你转的狗子
 * 一直跟着你的狗子
 * 猜数字
@@ -42,7 +43,7 @@
 * 井字棋
 * 陷阱
 
-## 五、Demo 详情
+## 四、Demo 详情
 
 ### 围着你转的狗子
 #### 1. 代码
