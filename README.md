@@ -6,8 +6,8 @@
 [https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
 
 ## Demo 清单 
-* 盯着你的狗子
-* 可抱走的狗子
+* 围着你转的狗子
+* 一直跟着你的狗子
 * 猜数字
 * Big Big Tree
 * 一扇门
@@ -16,7 +16,7 @@
 
 ## Demo 详情
 
-### 盯着你的狗子
+### 围着你转的狗子
 #### 1. 代码
 ```
 setInterval(() => {
@@ -43,7 +43,7 @@ setInterval(() => {
 
 ---
 
-### 可抱走的狗子
+### 一直跟着你的狗子
 
 #### 1. 代码
 ```
