@@ -11,6 +11,12 @@
 * megavox
 * text-input
 
+### 1.2 Player object（当前玩家）
+#### 关键属性
+* player.name => 'captainbenis.eth'
+* player.wallet => '0x2D891ED45C4C3EAB978513DF4B92a35Cf131d2e2'
+* player.uuid => avatar uuid for this instance of the player (player may have multiple tabs open with seperate avatars)
+
 ## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
