@@ -7,10 +7,14 @@
 * image
 * sign
 * polytext
+* richtext
 * audio
+* video
+* youtube
 * nft-image
 * megavox
 * text-input
+* spawn-point
 
 #### Feature Location
 * Position
