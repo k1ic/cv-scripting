@@ -104,6 +104,8 @@ setPosition(newobject,e)
 ```
 #### 2. 截图
 ![image](https://user-images.githubusercontent.com/5465932/124738020-1a32a500-df4b-11eb-8361-80cddfee940c.png)
+![image](https://user-images.githubusercontent.com/5465932/124745841-d17eea00-df52-11eb-8dc4-7ad6c08ceb82.png)
+
 
 #### 3. 其他配置
 ![image](https://user-images.githubusercontent.com/5465932/124738079-2a4a8480-df4b-11eb-9350-0c524763bb8f.png)
