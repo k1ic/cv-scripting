@@ -204,6 +204,8 @@ feature.on('click', e=>{
 ```
 ### 2. 截图
 ![image](https://user-images.githubusercontent.com/5465932/124738290-5a922300-df4b-11eb-8613-d0673f37f444.png)
+![image](https://user-images.githubusercontent.com/5465932/124746180-29b5ec00-df53-11eb-800a-e13e36661b3c.png)
+
 
 ### 3. 其他配置
 ![image](https://user-images.githubusercontent.com/5465932/124738336-654cb800-df4b-11eb-9373-96a197021bc8.png)
