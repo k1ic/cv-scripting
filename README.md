@@ -26,6 +26,9 @@
 ### 1.4 vox模型库(100+ vox现成可用)
 [https://wiki.cryptovoxels.com/en/voxel-library](https://wiki.cryptovoxels.com/en/voxel-library)
 
+### 1.5 CV interactive map
+[https://benjythebee.github.io/CV_interactive_map/index.html](https://benjythebee.github.io/CV_interactive_map/index.html)
+
 ## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
