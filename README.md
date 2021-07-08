@@ -4,20 +4,8 @@
 
 ## 一、基础知识
 ### 1.1 Feature object
-#### Feature Type
-* vox-model
-* button
-* image
-* sign
-* polytext
-* richtext
-* audio
-* video
-* youtube
-* nft-image
-* megavox
-* text-input
-* spawn-point
+#### Feature List
+![image](https://user-images.githubusercontent.com/5465932/124850593-80fba100-dfd3-11eb-9c65-56a66037199e.png)
 
 #### Feature Location
 * Position
