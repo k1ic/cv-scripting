@@ -1,9 +1,8 @@
 # CryptoVoxels Scripting
-## 零、目的
-### 使地块变得可交互
+## 零、目的：使地块变得可交互
 ### 交互方式：
 * 单机版（默认）
-* 多人互动（地块Owner配置后，过Grid服务器实现）
+* 多人互动（地块Owner配置后，通过Grid服务器实现）
 
 ## 一、基础知识
 ### 1.1 Feature object
