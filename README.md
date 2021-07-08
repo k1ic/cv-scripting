@@ -23,6 +23,9 @@
 ### 1.3 Scripting Wiki
 [https://wiki.cryptovoxels.com/en/Scripting/Examples](https://wiki.cryptovoxels.com/en/Scripting/Examples)
 
+### 1.4 vox模型库(100+ vox现成可用)
+[https://wiki.cryptovoxels.com/en/voxel-library](https://wiki.cryptovoxels.com/en/voxel-library)
+
 ## 二、Demo 地址
 [https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
 
