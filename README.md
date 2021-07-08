@@ -1,4 +1,7 @@
 # CryptoVoxels Scripting
+## 零、目的
+### 动画及可交互
+
 ## 一、基础知识
 ### 1.1 Feature object
 #### Feature Type
