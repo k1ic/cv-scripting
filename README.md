@@ -5,19 +5,6 @@
 ## 一、基础知识
 ### 1.1 Feature object
 #### Feature List
-Feature	Description	Feature	Description
- Audio	Play back an mp3	 Boombox	Let users live-stream audio
- Button	For Scripting	 Call Bell	DMs from Visitors ⚠️ Nerfed
- Image	Image from URL	 Lantern	Light emitters
- Megavox	Large .vox models	 NFT Image	For NFTs you own
- NFT Model	For 3d vox NFTs you own	 Particles	Add a particle emitter
- Polytext	3D Text	 Richtext	Lines of text
- Screen	Live presenting screen	 Sign	Single line
- Text Input	Let users enter a message ⚠️ Nerfed	 Video	Add short videos
- VidScreen	Programmable 64x64 screen	 .VOX	Small .vox models
- Youtube	Embed youtube videos	 Spawn-point	Spawn-point
- Cube	A texturable cube.	 Portal	A Portal that uses womps
-
 ![image](https://user-images.githubusercontent.com/5465932/124850593-80fba100-dfd3-11eb-9c65-56a66037199e.png)
 
 #### Feature Location
