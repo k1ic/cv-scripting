@@ -26,7 +26,10 @@
 ### 1.4 vox模型库(100+ vox模型现成可用)
 [https://wiki.cryptovoxels.com/en/voxel-library](https://wiki.cryptovoxels.com/en/voxel-library)
 
-### 1.5 CV interactive map
+### 1.5 CV 免费地块
+
+
+### 1.6 CV interactive map
 [https://benjythebee.github.io/CV_interactive_map/index.html](https://benjythebee.github.io/CV_interactive_map/index.html)
 
 ## 二、Demo 地址
