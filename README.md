@@ -27,6 +27,7 @@
 [https://wiki.cryptovoxels.com/en/voxel-library](https://wiki.cryptovoxels.com/en/voxel-library)
 
 ### 1.5 CV 免费地块
+[https://www.cryptovoxels.com/account/spaces#](https://www.cryptovoxels.com/account/spaces#)
 ![image](https://user-images.githubusercontent.com/5465932/125040921-bfc05280-e0ca-11eb-9c00-75fbe759372d.png)
 
 
