@@ -30,12 +30,19 @@
 [https://www.cryptovoxels.com/account/spaces#](https://www.cryptovoxels.com/account/spaces#)
 ![image](https://user-images.githubusercontent.com/5465932/125040921-bfc05280-e0ca-11eb-9c00-75fbe759372d.png)
 
-
 ### 1.6 CV interactive map
 [https://benjythebee.github.io/CV_interactive_map/index.html](https://benjythebee.github.io/CV_interactive_map/index.html)
 
 ## 二、Demo 地址
-[https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U](https://www.cryptovoxels.com/play?coords=NW@661W,144S,23.5U)
+[https://www.cryptovoxels.com/play?coords=S@661W,140S,23.5U](https://www.cryptovoxels.com/play?coords=S@661W,140S,23.5U)
+<iframe
+id="frame_content"
+height=900px
+width=90%
+src="https://www.cryptovoxels.com/play?coords=S@661W,140S,23.5U"
+frameborder=0
+allowfullscreen>
+</iframe>
 
 
 ## 三、示例清单 
